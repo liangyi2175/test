@@ -1,2 +1,0 @@
-﻿host,protocol,content-type,port,filepath
-dev.jiayouxueba.cn,http,application/x-www-form-urlencoded,80,E:\自动化\家有学霸\
